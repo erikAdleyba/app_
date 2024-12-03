@@ -1,0 +1,1 @@
+timerDuration: 1000
